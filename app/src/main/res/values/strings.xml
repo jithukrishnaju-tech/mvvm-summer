@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMArchitecture</string>
+    <string name="title">Sum calculator</string>
+</resources>
